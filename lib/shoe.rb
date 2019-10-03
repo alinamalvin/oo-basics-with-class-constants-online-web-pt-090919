@@ -10,8 +10,8 @@ BRANDS = []
       puts "exists!"
     else
       BRANDS.push(brand)
-    # BRANDS.push(brand)
-    # BRANDS.each do |item|
+    BRANDS.push(brand)
+    BRANDS.each do |item|
     #   if item == brand
     #     puts "exists!"
     #   else
